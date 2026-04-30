@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Founder badge">
+  <path d="M12 2.75 20.25 7.5v9L12 21.25 3.75 16.5v-9L12 2.75Z" fill="#10131D"/>
+  <path d="M12 4.55 18.65 8.4v7.2L12 19.45 5.35 15.6V8.4L12 4.55Z" fill="#171B2A"/>
+  <path d="M12 2.75 20.25 7.5v9L12 21.25 3.75 16.5v-9L12 2.75Z" stroke="#F2C94C" stroke-width="1.45" stroke-linejoin="round"/>
+
+  <path d="M7.35 10.15 9.4 13.1 12 8.05l2.6 5.05 2.05-2.95-.75 6.1h-7.8l-.75-6.1Z" fill="#F2C94C"/>
+  <path d="M8.45 17.05h7.1" stroke="#FFF4B8" stroke-width="1.65" stroke-linecap="round"/>
+  <circle cx="12" cy="13.15" r="1" fill="#10131D"/>
+</svg>
