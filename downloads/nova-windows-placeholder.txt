@@ -1,0 +1,5 @@
+Nova for Windows
+
+This is a temporary placeholder file.
+The real Nova Windows installer is not available yet.
+

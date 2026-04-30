@@ -1,0 +1,5 @@
+Nova for Linux
+
+This is a temporary placeholder file.
+The real Nova Linux package is not available yet.
+
